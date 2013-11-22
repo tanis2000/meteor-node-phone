@@ -5,7 +5,9 @@ Meteor package of node-phone. See https://github.com/AfterShip/node-phone
 
 Installation
 ============
+```shell
 mrt add phone
+```
 
 Usage example
 =============
