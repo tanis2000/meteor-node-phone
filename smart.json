@@ -1,0 +1,8 @@
+{
+    "name": "phone",
+    "description": "Meteor package wrapping node-phone for phone number normalization. See https://github.com/AfterShip/node-phone",
+    "homepage": "https://github.com/tanis2000/meteor-node-phone",
+    "author": "Valerio Santinelli <tanis@altralogica.it> (http://www.altralogica.it)",
+    "version": "0.0.1",
+    "git": "https://github.com/tanis2000/meteor-node-phone.git"
+}
